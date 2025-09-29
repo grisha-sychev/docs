@@ -17,7 +17,7 @@
 Код:
 
 ```html
-<script src="https://my-tracking.site/js/bot-link.js"></script> 
+<script src="https://my-tracking.site/js/botTracking.js"></script>
 <a data-bot="MyTelegramBot">
   Перейти в телеграм
 </a>
