@@ -29,7 +29,7 @@
 1. Создаём таблицу с названием проекта [Трекинг].
 2. Заходим в Расширения → Apps Script → Библиотеки и указываем ID:
 ```txt
-1qlHlmxZ2sE1ekKnARtndAAPiPsM0NmK-2hTdSzDN-897eJ1mG9FCXeqQ
+1UEWiktxaUQGmDVB7y2dl-eO1NJi1re565qPB4h28Ay2TlBV7y1AGxysg
 ```
 3. Переходим в «Файлы» → «Код.js» и вставляем скрипт, заменив токен бота на свой:
 ```js
