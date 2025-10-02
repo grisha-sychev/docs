@@ -29,12 +29,12 @@
 1. Создаём таблицу с названием проекта [Трекинг].
 2. Заходим в Расширения → Apps Script → Библиотеки и указываем ID:
 ```txt
-1UEWiktxaUQGmDVB7y2dl-eO1NJi1re565qPB4h28Ay2TlBV7y1AGxysg
+1Lv_3rqgv7OHYdzeEBEELIQa-Zc6G0bgjmshLIefEPCgjUFVPkb9PCXo6
 ```
 3. Переходим в «Файлы» → «Код.js» и вставляем скрипт, заменив токен бота на свой:
 ```js
 function runExport() { 
-  botTracking.exportUsersToActiveSheet("ТОКЕН_БОТА");
+  BotTracking.exportUsersToActiveSheet("ТОКЕН_БОТА");
 }
 ```
 ### 6. Настройка триггеров
